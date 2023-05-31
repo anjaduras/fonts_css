@@ -1,0 +1,268 @@
+* {
+    margin: 50px;
+    font-size: 30px;
+    background-color: #EBEBD3;
+    color:#083D77;
+}
+
+@font-face {
+    font-family: BargesItalic;
+    src: url('Barges\ Italic.ttf');
+}
+
+@font-face {
+    font-family: BabyBlooming;
+    src: url('Baby\ blooming.ttf');
+}
+
+@font-face {
+    font-family: BatikClassic;
+    src: url('Batik\ Classic.ttf');
+}
+
+@font-face {
+    font-family: BrokenHome;
+    src: url('Broken\ Home.ttf');
+}
+
+@font-face {
+    font-family: Claxone;
+    src: url('Claxone.ttf');
+}
+
+@font-face {
+    font-family: DebrovnikHill;
+    src: url('Debrovnik\ Hill\ Reguler.ttf');
+}
+
+@font-face {
+    font-family: Embargo;
+    src: url('Embargo\ Regular.ttf');
+}
+
+@font-face {
+    font-family: Environment;
+    src: url('Environment\ Regular.ttf');
+}
+
+@font-face {
+    font-family: ForestCoffeeBeans;
+    src: url('Forest\ Coffee\ Beans.ttf');
+}
+
+@font-face {
+    font-family: FunClimbing;
+    src: url('Fun\ climbing.ttf');
+}
+
+@font-face {
+    font-family: HerbalMedicine;
+    src: url('Herbal\ Medicine.ttf');
+}
+
+@font-face {
+    font-family: Hoogy;
+    src: url('Hoogy.ttf');
+}
+
+@font-face {
+    font-family: MarryHealing;
+    src: url('Marry\ Healing.ttf');
+}
+
+@font-face {
+    font-family: Mingkung;
+    src: url('Mingkung.ttf');
+}
+
+@font-face {
+    font-family: Moisture;
+    src: url('Moisture.ttf');
+}
+
+@font-face {
+    font-family: MolineriaLatiforia;
+    src: url('Molineria\ Latifolia.ttf');
+}
+
+@font-face {
+    font-family: MomentumHealing;
+    src: url('Momentum\ Healing.ttf');
+}
+
+@font-face {
+    font-family: MorningGlory;
+    src: url('Morning\ Glory\ Regular.ttf');
+}
+
+@font-face {
+    font-family: Mugiyako;
+    src: url('Mugiyako.ttf');
+}
+
+@font-face {
+    font-family: NyaiOntosoroh;
+    src: url('Nyai\ Ontosoroh.ttf');
+}
+
+@font-face {
+    font-family: PinemonKingdom;
+    src: url('Pinemon\ Kingdom.ttf');
+}
+
+@font-face {
+    font-family: QuickCount;
+    src: url('Quick\ Count.ttf');
+}
+
+@font-face {
+    font-family: RainForestAdventure;
+    src: url('Rain\ Forest\ Aventure.ttf');
+}
+
+@font-face {
+    font-family: Rollback;
+    src: url('Rollback.ttf');
+}
+
+@font-face {
+    font-family: StitchingOfChildren;
+    src: url('Stitching\ of\ Children.ttf');
+}
+
+@font-face {
+    font-family: TheMorille;
+    src: url('The\ Morille.ttf');
+}
+
+@font-face {
+    font-family: WegllyHauston;
+    src: url('Weglly\ Hauston.ttf');
+}
+
+@font-face {
+    font-family: WomenFrame;
+    src: url('Women\ Frame.ttf');
+}
+
+@font-face {
+    font-family: YoungGeneration;
+    src: url('Young\ Generation.ttf');
+}
+
+h1{
+    font-family: BargesItalic;
+    font-size: 50px;
+}
+
+#babyblooming {
+    font-family: BabyBlooming;
+}
+
+#batikclassic {
+    font-family: BatikClassic;
+}
+
+#brokenhome {
+    font-family: BrokenHome;
+}
+
+#claxone {
+    font-family: Claxone;
+}
+
+#debrovnikhill {
+    font-family: DebrovnikHill;
+}
+
+#embargo {
+    font-family: Embargo;
+}
+
+#environment {
+    font-family: Environment;
+}
+
+#forestcoffeebeans {
+    font-family: ForestCoffeeBeans;
+}
+
+#funclimbing {
+    font-family: FunClimbing;
+}
+
+#herbalmedicine {
+    font-family: HerbalMedicine;
+}
+
+#hoogy {
+    font-family: Hoogy;
+}
+
+#marryhealing {
+    font-family: MarryHealing;
+}
+
+#mingkung {
+    font-family: Mingkung;
+}
+
+#moisture {
+    font-family: Moisture;
+}
+
+#molineria {
+    font-family: MolineriaLatiforia;
+}
+
+#momentum {
+    font-family: MomentumHealing;
+}
+
+#morningglory {
+    font-family: MorningGlory;
+}
+
+#mugiyako {
+    font-family: Mugiyako;
+}
+
+#nyai {
+    font-family: NyaiOntosoroh;
+}
+
+#pinemonkingdom {
+    font-family: PinemonKingdom;
+}
+
+#quickcount {
+    font-family: QuickCount;
+}
+
+#rainforestadventure {
+    font-family: RainForestAdventure;
+}
+
+#rollback {
+    font-family: Rollback;
+}
+
+#stitching {
+    font-family: StitchingOfChildren;
+}
+
+#themorille {
+    font-family: TheMorille;
+}
+
+#wegllyhauston {
+    font-family: WegllyHauston;
+}
+
+#womenframe {
+    font-family: WomenFrame;
+}
+
+#younggeneration {
+    font-family: YoungGeneration;
+}
